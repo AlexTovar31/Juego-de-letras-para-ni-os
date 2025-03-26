@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de Letras para Niños</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="contenedor">
+        <h1>¡Forma la palabra! ✏️</h1>
+        
+        <!-- Imagen de la palabra -->
+        <div class="imagen-container">
+            <img id="imagen-actual" src="" alt="Palabra a formar">
+        </div>
+        
+        <!-- Área para soltar letras -->
+        <div id="area-palabra" class="area-palabra"></div>
+        
+        <!-- Letras y sílabas para arrastrar -->
+        <div id="cuadro-letras" class="cuadro-letras"></div>
+        
+        <!-- Retroalimentación -->
+        <div id="retroalimentacion" class="retroalimentacion"></div>
+        
+        <!-- Botón de reinicio -->
+        <button id="reiniciar" class="boton">Nueva palabra</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
