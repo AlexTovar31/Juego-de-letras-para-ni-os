@@ -12,8 +12,13 @@ Para reiniciar e juego pulsa el boton nueva palabra y cambiara automaticamente d
 Sorteo aleatorio: Al hacer clic en el botón "Nueva palabra", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 Tecnologias
+
 *JAVASCRIPT
+
 *HTML
+
 *CSS
+
 Pantallazo del juego
+
 ![image](https://github.com/user-attachments/assets/3ad5049d-c559-40d0-a6c4-633dfd7d7e86)
